@@ -33,7 +33,7 @@ reaver-wps-fork-t6x version 1.6.x is a community forked version which includes v
 <ul>
 <li>Python</li>
  <li>Figlet</li>
-<li><a href="https://github.com/r3k4t/reaver-wps-fork-t6x">reaver-wps-fork-t6x</li>
+<li><a href="https://github.com/t6x/reaver-wps-fork-t6x">reaver-wps-fork-t6x</li>
 </ul>
 
 ### Getting started ###
