@@ -54,7 +54,6 @@ sudo python pyreaver.py
 
 ![Screenshot at 2020-08-25 12-10-17](https://user-images.githubusercontent.com/69615463/91148314-156c5600-e6d7-11ea-964c-b0398be506f2.png)
 
-![Screenshot at 2020-08-25 12-12-24](https://user-images.githubusercontent.com/69615463/91148373-287f2600-e6d7-11ea-922f-9a6545b6c326.png)
 
 
 
