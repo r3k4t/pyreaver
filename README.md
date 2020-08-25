@@ -19,7 +19,7 @@
                  Wifi Protected Setup Attack Tool
 
 
-This program is build on python.This tool name is pyreaver. I have create this program on python.
+This program is build on python.This tool name is pyreaver.
                         
 Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases, as described in Brute forcing Wi-Fi Protected Setup When poor design meets poor implementation. by Stefan Viehböck.
 Reaver has been designed to be a robust and practical attack against Wi-Fi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases and has been tested against a wide variety of access points and WPS implementations.
