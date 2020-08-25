@@ -19,7 +19,7 @@
                  Wifi Protected Setup Attack Tool
 
 
-This program is build on python.This tool name is pyreaver.You can automatically run this program.
+This program is build on python.This tool name is pyreaver.You can run reaver wps program on python. .
                         
 Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases, as described in Brute forcing Wi-Fi Protected Setup When poor design meets poor implementation. by Stefan Viehböck.
 Reaver has been designed to be a robust and practical attack against Wi-Fi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases and has been tested against a wide variety of access points and WPS implementations.
@@ -33,9 +33,22 @@ reaver-wps-fork-t6x version 1.6.x is a community forked version which includes v
 <ul>
 <li>Python</li>
  <li>Figlet</li>
- <li>Aircrack-ng</li>
 <li><a href="https://github.com/t6x/reaver-wps-fork-t6x">reaver-wps-fork-t6x</li>
 </ul>
+
+### build reaver ###
+
+sudo apt-get install build-essential libpcap-dev aircrack-ng pixiewps
+<br>
+git clone https://github.com/t6x/reaver-wps-fork-t6x
+<br>
+cd reaver
+<br>
+cd src
+<br>
+make
+<br>
+sudo make install
 
 ### Getting started ###
 
