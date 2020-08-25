@@ -46,6 +46,8 @@ cd reaver
 <br>
 cd src
 <br>
+./configure
+<br>
 make
 <br>
 sudo make install
