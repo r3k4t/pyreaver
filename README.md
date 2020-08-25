@@ -64,13 +64,14 @@ sudo python pyreaver.py
 
 ### Screenshot ###
 
-![Screenshot at 2020-08-25 12-09-30](https://user-images.githubusercontent.com/69615463/91148178-e950d500-e6d6-11ea-8cc9-b3a7bf74bf7d.png)
+![Screenshot at 2020-08-25 19-30-12](https://user-images.githubusercontent.com/69615463/91190220-fbe80000-e710-11ea-8c92-5eabfbd9decf.png)
 
-![Screenshot at 2020-08-25 12-10-08](https://user-images.githubusercontent.com/69615463/91148252-01c0ef80-e6d7-11ea-80e8-68b159657e7a.png)
+![Screenshot at 2020-08-25 19-30-41](https://user-images.githubusercontent.com/69615463/91190403-2a65db00-e711-11ea-9620-c81b57f7a764.png)
 
-![Screenshot at 2020-08-25 12-10-17](https://user-images.githubusercontent.com/69615463/91148314-156c5600-e6d7-11ea-964c-b0398be506f2.png)
+press ctrl + c
 
+![Screenshot at 2020-08-25 19-30-51](https://user-images.githubusercontent.com/69615463/91190457-39e52400-e711-11ea-90ba-52c517bd2bb7.png)
 
-
+![Screenshot at 2020-08-25 19-33-10](https://user-images.githubusercontent.com/69615463/91190588-5e410080-e711-11ea-9a50-24e0647f1b91.png)
 
 
