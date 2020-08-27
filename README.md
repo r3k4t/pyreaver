@@ -1,5 +1,3 @@
-<h1>echo "\e[1;45m license \e[0m"</h1>
-
 <h2>PyReaver</h2>
 
 
