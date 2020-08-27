@@ -1,4 +1,4 @@
-echo -e "\e[1;45mlicense\e[0m"
+echo -e " \e[1;45m license \e[0m"
 
 
 
