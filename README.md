@@ -1,9 +1,3 @@
-echo -e " \e[1;45m license \e[0m"
-
-
-
-
-
 <h2>PyReaver</h2>
 
 
